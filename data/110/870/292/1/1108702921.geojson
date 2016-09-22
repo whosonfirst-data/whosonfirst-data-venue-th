@@ -1,0 +1,84 @@
+{
+  "id": 1108702921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"100.5642201,13.764605,100.5642201,13.764605",
+    "geom:latitude":13.764605,
+    "geom:longitude":100.56422,
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "sg:address":"582/64 Soi Yu Charoen 7 Ratchadapisek 3 Road",
+    "sg:city":"Bangkok",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"10310",
+    "sg:tags":[
+        "web-design",
+        "web-application-development",
+        "print-design",
+        "packaging-design",
+        "search-engine-optimisation",
+        "database-development",
+        "ecommerce"
+    ],
+    "sg:website":"http://www.designchemical.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85902823,
+        102191569,
+        85632293,
+        102025263,
+        85678739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5R8aFNAHWWpnEZQ0ip1ikk_13.764605_100.564220@1308163242"
+    },
+    "wof:country":"TH",
+    "wof:created":1474570891,
+    "wof:geomhash":"3287d403e4a2679fd04a1d2e0813ed5f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "locality_id":102025263,
+            "neighbourhood_id":85902823,
+            "region_id":85678739,
+            "venue_id":1108702921
+        }
+    ],
+    "wof:id":1108702921,
+    "wof:lastmodified":1474570891,
+    "wof:name":"Design Chemical",
+    "wof:parent_id":85902823,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "web-design",
+        "web-application-development",
+        "print-design",
+        "packaging-design",
+        "search-engine-optimisation",
+        "database-development",
+        "ecommerce"
+    ]
+},
+  "bbox": [
+    100.5642201,
+    13.764605,
+    100.5642201,
+    13.764605
+],
+  "geometry": {"coordinates":[100.5642201,13.764605],"type":"Point"}
+}

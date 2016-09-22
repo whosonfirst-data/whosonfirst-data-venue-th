@@ -1,0 +1,84 @@
+{
+  "id": 1108702915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"100.5517604,13.7424752,100.5517604,13.7424752",
+    "geom:latitude":13.742475,
+    "geom:longitude":100.55176,
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "sg:address":"19/57 Sukhumvit Suite Sukhumvit Soi 13",
+    "sg:city":"Bangkok",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"10110",
+    "sg:tags":[
+        "bangkok-property",
+        "thailand",
+        "real-estate-agent",
+        "condo",
+        "sale",
+        "buy",
+        "rent"
+    ],
+    "sg:website":"http://www.soho-properties.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906841,
+        102191569,
+        85632293,
+        102025263,
+        85678739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_00JIj4Tda3TlHu9Kmfh5jR_13.742475_100.551760@1308163241"
+    },
+    "wof:country":"TH",
+    "wof:created":1474570891,
+    "wof:geomhash":"1d2b24536856dcd0218cc763211e5f64",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "locality_id":102025263,
+            "neighbourhood_id":85906841,
+            "region_id":85678739,
+            "venue_id":1108702915
+        }
+    ],
+    "wof:id":1108702915,
+    "wof:lastmodified":1474570891,
+    "wof:name":"Soho Properties",
+    "wof:parent_id":85906841,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bangkok-property",
+        "thailand",
+        "real-estate-agent",
+        "condo",
+        "sale",
+        "buy",
+        "rent"
+    ]
+},
+  "bbox": [
+    100.5517604,
+    13.7424752,
+    100.5517604,
+    13.7424752
+],
+  "geometry": {"coordinates":[100.55176040000001,13.7424752],"type":"Point"}
+}

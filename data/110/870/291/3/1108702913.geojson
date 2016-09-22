@@ -1,0 +1,94 @@
+{
+  "id": 1108702913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"100.5260729,13.7255001,100.5260729,13.7255001",
+    "geom:latitude":13.7255,
+    "geom:longitude":100.526073,
+    "iso:country":"TH",
+    "mz:hierarchy_label":1,
+    "sg:address":"323 Silom Road, Silom Fl. 41st 10500",
+    "sg:city":"Bangkok",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Advertising",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"10500",
+    "sg:tags":[
+        "seo",
+        "ppc",
+        "video-production",
+        "video",
+        "video-editing",
+        "editing",
+        "translation",
+        "online-marketing",
+        "internet-marketing",
+        "marketing",
+        "branding",
+        "strategies"
+    ],
+    "sg:website":"http://www.marketingignite.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85932721,
+        102191569,
+        85632293,
+        102025847,
+        85678739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5rsoz1yZzPswsQjULGqYAJ_13.725500_100.526073@1308163240"
+    },
+    "wof:country":"TH",
+    "wof:created":1474570891,
+    "wof:geomhash":"8c8cb57918e5ba283dcca68168ad222b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632293,
+            "locality_id":102025847,
+            "neighbourhood_id":85932721,
+            "region_id":85678739,
+            "venue_id":1108702913
+        }
+    ],
+    "wof:id":1108702913,
+    "wof:lastmodified":1474570891,
+    "wof:name":"Marketing Ignite",
+    "wof:parent_id":85932721,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-th",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "seo",
+        "ppc",
+        "video-production",
+        "video",
+        "video-editing",
+        "editing",
+        "translation",
+        "online-marketing",
+        "internet-marketing",
+        "marketing",
+        "branding",
+        "strategies"
+    ]
+},
+  "bbox": [
+    100.5260729,
+    13.7255001,
+    100.5260729,
+    13.7255001
+],
+  "geometry": {"coordinates":[100.5260729,13.7255001],"type":"Point"}
+}
